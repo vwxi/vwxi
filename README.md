@@ -1,1 +1,2 @@
-m. fang, a 623-dimensionally equidistributed uniform pseudo-random number generator  
+i like peer-to-peer networking and computer graphics.  
+when i grow up, i want to be a star.
